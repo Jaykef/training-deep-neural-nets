@@ -10,4 +10,4 @@ The trained model can be tested with test.py for up to 5 sample images.
 
 ### Credits
 - The network code build's on Michael Nielsen's <a href="https://github.com/mnielsen/neural-networks-and-deep-learning">neural-networks-and-deep-learning book</a>
-- Readings: https://www.3blue1brown.com/lessons/neural-networks
+- Readings: https://www.3blue1brown.com/lessons/neural-networks, http://neuralnetworksanddeeplearning.com/
