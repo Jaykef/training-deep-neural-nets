@@ -1,6 +1,6 @@
 ## Deep Image Neural Network
 
-A simple but precise implemetation of stochastic gradient descent algorithm for a feedforward neural network where the gradients are 
+A simple but precise implemetation of a stochastic gradient descent algorithm for a feedforward neural network where the gradients are 
 calculated using backproagtion. 
 
 The network is then trained with train.y and the trained weights and params are then save in trained_network.pkl.
